@@ -58,3 +58,5 @@ echo $NAME
 echo Valera
 echo $NAME
 cat
+cat name.tx
+cat name.txt

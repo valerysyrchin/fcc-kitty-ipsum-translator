@@ -168,3 +168,5 @@ echo -e "\n\n'~~ kitty_ipsum_2.txt info ~~'"
 echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" info.txt >> kitty
 echo -e "\n\n~~ kitty_ipsum_2.txt info ~~" >> kitty_info.txt
 echo -e "\nNumber of lines:" >> kitty_info.txt
+cat kitty_ipsum_2.txt
+cat kitty_ipsum_2.txt

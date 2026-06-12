@@ -67,3 +67,4 @@ echo Valera
 touch script.sh
 chmod +x script.sh
 ./script.sh
+echo Valera

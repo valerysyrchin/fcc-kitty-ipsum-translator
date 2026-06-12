@@ -185,3 +185,5 @@ wc -m kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 wc -m < kitty_ipsum_2.txt
 wc -m < kitty_ipsum_2.txt >> kitty_info.txt
+__vsc_prompt_cmd_original
+grep --color 'meow[a-z]*' kitty_ipsum_2.txt

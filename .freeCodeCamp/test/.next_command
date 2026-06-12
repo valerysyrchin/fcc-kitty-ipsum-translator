@@ -51,3 +51,5 @@ echo hello bash > stdout.txt
 read NAME
 echo $NAME
 echo $NAME > stdout.txt
+echo freeCodeCamp > stdout.txt
+echo freeCodeCamp > name.txt

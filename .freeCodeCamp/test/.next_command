@@ -57,3 +57,4 @@ read NAME < name.txt
 echo $NAME
 echo Valera
 echo $NAME
+cat

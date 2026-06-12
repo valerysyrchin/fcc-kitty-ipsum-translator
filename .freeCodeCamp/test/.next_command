@@ -70,3 +70,5 @@ chmod +x script.sh
 echo Valera
 echo Valera
 echo Valera
+namt.txt
+./script.sh < name.txt

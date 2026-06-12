@@ -113,3 +113,4 @@ man grep
 grep --color 'meow' kitty_ipsum_1.txt
 man grep
 grep --color --line-number 'meow' kitty_ipsum_1.txt
+grep --color --line-number 'meow[a-z]*' kitty_ipsum_1.txt

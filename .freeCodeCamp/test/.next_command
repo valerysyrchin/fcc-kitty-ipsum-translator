@@ -218,3 +218,4 @@ man sed
 ./translate.sh kitty_ipsum_1.txt
 man grep
 ./translate.sh kitty_ipsum_1.txt
+man sed

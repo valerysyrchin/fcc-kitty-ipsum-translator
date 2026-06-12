@@ -65,3 +65,4 @@ cat < name.txt
 echo $NAME
 echo Valera
 touch script.sh
+chmod +x script.sh

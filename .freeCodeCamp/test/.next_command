@@ -172,3 +172,8 @@ cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
 echo -e "\nNumber of words" >> kitty_info.txt
 echo -e "\nNumber of words:" >> kitty_info.txt
+wc -c kitty_ipsum_2.txt
+cat wc -c kitty_ipsum_2.txt
+wc -w kitty_ipsum_2.txt >> kitty_info.txt
+wc -w < kitty_ipsum_2.txt
+wc -w < kitty_ipsum_2.txt >> kitty_info.txt

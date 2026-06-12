@@ -55,3 +55,4 @@ echo freeCodeCamp > stdout.txt
 echo freeCodeCamp > name.txt
 read NAME < name.txt
 echo $NAME
+echo Valera
